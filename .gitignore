@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

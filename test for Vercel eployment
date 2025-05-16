@@ -1,0 +1,12 @@
+import './App.css';
+import splashImage from '/splash.png'; // from public folder
+
+function App() {
+  return (
+    <div id="splash-screen">
+      <img src={splashImage} alt="Splash" />
+    </div>
+  );
+}
+
+export default App;
